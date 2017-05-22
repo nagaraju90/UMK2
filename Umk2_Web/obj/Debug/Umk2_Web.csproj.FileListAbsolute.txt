@@ -1,0 +1,6 @@
+c:\Users\nagaraju90\documents\visual studio 2017\Projects\Umk2_Web\Umk2_Web\bin\Debug\Umk2_Web.exe.config
+c:\Users\nagaraju90\documents\visual studio 2017\Projects\Umk2_Web\Umk2_Web\bin\Debug\Umk2_Web.exe
+c:\Users\nagaraju90\documents\visual studio 2017\Projects\Umk2_Web\Umk2_Web\bin\Debug\Umk2_Web.pdb
+c:\Users\nagaraju90\documents\visual studio 2017\Projects\Umk2_Web\Umk2_Web\obj\Debug\Umk2_Web.csprojResolveAssemblyReference.cache
+c:\Users\nagaraju90\documents\visual studio 2017\Projects\Umk2_Web\Umk2_Web\obj\Debug\Umk2_Web.exe
+c:\Users\nagaraju90\documents\visual studio 2017\Projects\Umk2_Web\Umk2_Web\obj\Debug\Umk2_Web.pdb
